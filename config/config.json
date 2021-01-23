@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "root",
-    "password": "munir!@#$",
-    "database": "binaracademy2",
+    "username": "anaskaciw",
+    "password": "@Anaskaciw0102",
+    "database": "binarcodechallenge",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
