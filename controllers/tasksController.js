@@ -12,7 +12,7 @@ class TasksController {
       include: [
         {
           model: usersModel,
-          attributes: "full_name",
+          attributes: ["full_name"],
         },
       ],
     });
